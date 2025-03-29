@@ -1,0 +1,56 @@
+col_id	spec_id	individual	genus	tribe	growth_form	sepals	staminodes	staminode_shape	ligules	ligule_shape	no_stamens	no_stamens_after_fusion	no_thecae_per_stamen	no_thecae_per_whorl	filament_condition	no_petals	no_staminodes	no_sepals	col_loc	otherCatalogNumbers	living_collection
+AYEEUP_MDC_NP_2023_11-04_V7	AYEEUP_MDC_NP_231104_V7_multi_2_7_01	AYEEUP_MDC_NP_2023_11-04_V7	Ayenia	Byttnerieae	herb	sepal-like	petal-like	tongue	staminode-like	tubular	5	5	3	3	semi-sessile	5	5	5	NP	NA	N
+AYEEUP_MDC_NP_2023_11-04_V7	AYEEUP_MDC_NP_231104_V7_multi_2_7_02	AYEEUP_MDC_NP_2023_11-04_V7	Ayenia	Byttnerieae	herb	sepal-like	petal-like	tongue	staminode-like	tubular	5	5	3	3	semi-sessile	5	5	5	NP	NA	N
+AYEEUP_MDC_QRP_2023-11-01_V2	AYEEUP_MDC_QRP_231101_V2_multi_2_7_01	AYEEUP_MDC_QRP_2023-11-01_V2	Ayenia	Byttnerieae	herb	sepal-like	petal-like	tongue	staminode-like	tubular	5	5	3	3	semi-sessile	5	5	5	QRP	NA	N
+AYEEUP_MDC_DE_2023-08-21_V3E	AYEEUP_MDC_DE_230821_V3E_multi_D_F_4_F01	AYEEUP_MDC_DE_2023-08-21_V3E	Ayenia	Byttnerieae	herb	sepal-like	petal-like	tongue	staminode-like	tubular	5	5	3	3	semi-sessile	5	5	5	DE	NA	N
+AYEEUP_MDC_DEN_2023-08-21_V6D	AYEEUP_MDC_DEN_230821_V6D_multi_D_F_4_D01	AYEEUP_MDC_DEN_2023-08-21_V6D	Ayenia	Byttnerieae	herb	sepal-like	petal-like	tongue	staminode-like	tubular	5	5	3	3	semi-sessile	5	5	5	DEN	NA	N
+AYEEUP_MDC_DEN_2023-08-21_V6D	AYEEUP_MDC_DEN_230821_V6D_multi_D_F_4_D02	AYEEUP_MDC_DEN_2023-08-21_V6D	Ayenia	Byttnerieae	herb	sepal-like	petal-like	tongue	staminode-like	tubular	5	5	3	3	semi-sessile	5	5	5	TP	NA	N
+AYEEUP_MDC_TP_2023-10-30_V4	AYEEUP_MDC_TP_231030_V4_multi_D_F_4_401	AYEEUP_MDC_TP_2023-10-30_V4	Ayenia	Byttnerieae	herb	sepal-like	petal-like	tongue	staminode-like	tubular	5	5	3	3	semi-sessile	5	5	5	TP	NA	N
+AYEEUP_MDC_TP_2023-10-30_V4	AYEEUP_MDC_TP_231030_V4_multi_D_F_4_402	AYEEUP_MDC_TP_2023-10-30_V4	Ayenia	Byttnerieae	herb	sepal-like	petal-like	tongue	staminode-like	tubular	5	5	3	3	semi-sessile	5	5	5	TP	NA	N
+AYEEUP_MDC_TP_2023-10-30_V4	AYEEUP_MDC_TP_231030_V4_multi_D_F_4_403	AYEEUP_MDC_TP_2023-10-30_V4	Ayenia	Byttnerieae	herb	sepal-like	petal-like	tongue	staminode-like	tubular	5	5	3	3	semi-sessile	5	5	5	TP	NA	N
+AYEEUP_UM_PRVL_2022-06-14	AYEEUP_UM_PRVL_220614_multi_01	AYEEUP_UM_PRVL_2022-06-14	Ayenia	Byttnerieae	herb	sepal-like	petal-like	tongue	staminode-like	tubular	5	5	3	3	semi-sessile	5	5	5	PRVL	NA	N
+BYTMIC_FBG_XP_2022-02-17	bytmic_fbg_XP_220217_02	2015-0018_B	Byttneria	Byttnerieae	shrub	sepal-like	reduced	triangular	staminode-like	tubular	5	5	2	2	semi-sessile	5	5	5	FBG	2015-0018 B	Y
+BYTMIC_FBG_XP_2022-02-17	bytmic_fbg_xp_220217_09	2015-0018_B	Byttneria	Byttnerieae	shrub	sepal-like	reduced	triangular	staminode-like	tubular	5	5	2	2	semi-sessile	5	5	5	FBG	2015-0018 B	Y
+BYTMIC_FBG_XP_2022-02-17	bytmic_fbg_xp_220217_15	2015-0018_B	Byttneria	Byttnerieae	shrub	sepal-like	reduced	triangular	staminode-like	tubular	5	5	2	2	semi-sessile	5	5	5	FBG	2015-0018 B	Y
+BYTMIC_FBG_XP_2022-02-17	bytmic_fbg_xp_220217_06	2015-0018_B	Byttneria	Byttnerieae	shrub	sepal-like	reduced	triangular	staminode-like	tubular	5	5	2	2	semi-sessile	5	5	5	FBG	2015-0018 B	Y
+BYTMIC_FBG_XP_2022-02-17	bytmic_fbg_xp_220217_10	2015-0018_B	Byttneria	Byttnerieae	shrub	sepal-like	reduced	triangular	staminode-like	tubular	5	5	2	2	semi-sessile	5	5	5	FBG	2015-0018 B	Y
+BYTMIC_FBG_XP_2022-02-17	bytmic_fbg_xp_220217_14	2015-0018_B	Byttneria	Byttnerieae	shrub	sepal-like	reduced	triangular	staminode-like	tubular	5	5	2	2	semi-sessile	5	5	5	FBG	2015-0018 B	Y
+BYTMIC_FBG_XP_2022-02-17	bytmic_fbg_XP_220217_multi_11-12_anther_11	2015-0018_B	Byttneria	Byttnerieae	shrub	sepal-like	reduced	triangular	staminode-like	tubular	5	5	2	2	semi-sessile	5	5	5	FBG	2015-0018 B	Y
+BYTMIC_FBG_XP_2022-02-17	bytmic_fbg_XP_220217_multi_11-12_anther_12	2015-0018_B	Byttneria	Byttnerieae	shrub	sepal-like	reduced	triangular	staminode-like	tubular	5	5	2	2	semi-sessile	5	5	5	FBG	2015-0018 B	Y
+BYTMIC_FBG_XP_2022-02-17	bytmic_fbg_XP_220217_multi_13	2015-0018_B	Byttneria	Byttnerieae	shrub	sepal-like	reduced	triangular	staminode-like	tubular	5	5	2	2	semi-sessile	5	5	5	FBG	2015-0018 B	Y
+COMBAR_UM_GA_2022-07-03	combar_um_ga_220702_14	COMBAR_UM_GA	Commersonia	Lasiopetaleae	tree	petal-like	petal-like	tongue	staminode-like	strap_shaped	5	5	2	1	free	5	5	5	UM	NA	Y
+COMBAR_UM_GA_2022-07-03	combar_um_ga_220702_15	COMBAR_UM_GA	Commersonia	Lasiopetaleae	tree	petal-like	petal-like	tongue	staminode-like	strap_shaped	5	5	2	1	free	5	5	5	UM	NA	Y
+COMBAR_UM_GA_2022-07-03	combar_um_ga_220702_multi_12-13_12	COMBAR_UM_GA	Commersonia	Lasiopetaleae	tree	petal-like	petal-like	tongue	staminode-like	strap_shaped	5	5	2	1	free	5	5	5	UM	NA	Y
+COMBAR_UM_GA_2022-07-03	combar_um_ga_220702_multi_06-07_06	COMBAR_UM_GA	Commersonia	Lasiopetaleae	tree	petal-like	petal-like	tongue	staminode-like	strap_shaped	5	5	2	1	free	5	5	5	UM	NA	Y
+COMBAR_UM_GA_2022-07-03	combar_um_ga_220702_multi_06-07_07	COMBAR_UM_GA	Commersonia	Lasiopetaleae	tree	petal-like	petal-like	tongue	staminode-like	strap_shaped	5	5	2	1	free	5	5	5	UM	NA	Y
+COMBAR_UM_GA_2022-07-03	combar_um_ga_220702_multi_08-09_08	COMBAR_UM_GA	Commersonia	Lasiopetaleae	tree	petal-like	petal-like	tongue	staminode-like	strap_shaped	5	5	2	1	free	5	5	5	UM	NA	Y
+COMBAR_UM_GA_2022-07-03	combar_um_ga_220702_multi_08-09_09	COMBAR_UM_GA	Commersonia	Lasiopetaleae	tree	petal-like	petal-like	tongue	staminode-like	strap_shaped	5	5	2	1	free	5	5	5	UM	NA	Y
+COMBAR_UM_GA_2022-07-03	combar_um_ga_220702_multi_10-11_10	COMBAR_UM_GA	Commersonia	Lasiopetaleae	tree	petal-like	petal-like	tongue	staminode-like	strap_shaped	5	5	2	1	free	5	5	5	UM	NA	Y
+COMBAR_UM_GA_2022-07-03	combar_um_ga_220702_multi_10-11_11	COMBAR_UM_GA	Commersonia	Lasiopetaleae	tree	petal-like	petal-like	tongue	staminode-like	strap_shaped	5	5	2	1	free	5	5	5	UM	NA	Y
+COMBAR_UM_GA_2022-07-03	combar_um_ga_220702_multi_12-13_13	COMBAR_UM_GA	Commersonia	Lasiopetaleae	tree	petal-like	petal-like	tongue	staminode-like	strap_shaped	5	5	2	1	free	5	5	5	UM	NA	Y
+GUAULM_UM_GA_2022-05-02	GUAULM_UM_GA_220502_02	GUAULM_UM_GA	Guazuma	Theobromeae	tree	sepal-like	reduced	triangular	staminode-like	bifid filamentous	20	10	2	8	semi-sessile	5	5	3	UM	NA	Y
+GUAULM_UM_GA_2022-05-02	GUAULM_UM_GA_220502_03	GUAULM_UM_GA	Guazuma	Theobromeae	tree	sepal-like	reduced	triangular	staminode-like	bifid filamentous	20	10	2	8	semi-sessile	5	5	3	UM	NA	Y
+GUAULM_UM_GA_2022-05-02	GUAULM_UM_GA_220502_05	GUAULM_UM_GA	Guazuma	Theobromeae	tree	sepal-like	reduced	triangular	staminode-like	bifid filamentous	20	10	2	8	semi-sessile	5	5	3	UM	NA	Y
+GUAULM_UM_GA_2021-10-12	guaulm_um_GA_211015_01b	GUAULM_UM_GA	Guazuma	Theobromeae	tree	sepal-like	reduced	triangular	staminode-like	bifid filamentous	20	10	2	8	semi-sessile	5	5	3	UM	NA	Y
+GUAULM_UM_GA_2022-05-02	GUAULM_UM_GA_220502_09	GUAULM_UM_GA	Guazuma	Theobromeae	tree	sepal-like	reduced	triangular	staminode-like	bifid filamentous	20	10	2	8	semi-sessile	5	5	3	UM	NA	Y
+HERUMB_FBG_RPH_2022-11-30	HERUMB_FBG_RPH_221130_01	94257_A	Herrania	Theobromeae	tree	sepal-like	petal-like	tongue	ligule-like	tubular	15	10	2	6	free	5	5	3	FBG	94257 A	Y
+HERUMB_FBG_RPH_2022-11-30	HERUMB_FBG_RPH_221130_02	94257_A	Herrania	Theobromeae	tree	sepal-like	petal-like	tongue	ligule-like	tubular	15	10	2	6	free	5	5	3	FBG	94257 A	Y
+HERUMB_FBG_RPH_2022-11-30	HERUMB_FBG_RPH_221130_03	94257_A	Herrania	Theobromeae	tree	sepal-like	petal-like	tongue	ligule-like	tubular	15	10	2	6	free	5	5	3	FBG	94257 A	Y
+HERUMB_FBG_RPH_2022-11-30	HERUMB_FBG_RPH_221130_04	94257_A	Herrania	Theobromeae	tree	sepal-like	petal-like	tongue	ligule-like	tubular	15	10	2	6	free	5	5	3	FBG	94257 A	Y
+HERUMB_FBG_RPH_2022-11-30	HERUMB_FBG_RPH_221130_05	94257_A	Herrania	Theobromeae	tree	sepal-like	petal-like	tongue	ligule-like	tubular	15	10	2	6	free	5	5	3	FBG	94257 A	Y
+THECAC_USDA_MIA_SHRS7_2022-03-31	THECAC_USDA_MAR_9UM_HR_SS_PTA14d_	SHRS-7_(INIAPT-484)	Theobroma	Theobromeae	tree	sepal-like	petal-like	strap	ligule-like	strap_shaped	10	5	2	4	free	5	5	5	USDA	SHRS-7 (INIAPT-484)	Y
+THECAC_FBG_CG_2022-05-02	THECAC_FBG_CG_2022_0502_04	2020-0051	Theobroma	Theobromeae	tree	sepal-like	petal-like	strap	ligule-like	strap_shaped	10	5	2	4	free	5	5	5	FBG	2020-0051	Y
+THECAC_FBG_CG_2022-06-24	thecac_fbg_cg_220622_01	2020-0051	Theobroma	Theobromeae	tree	sepal-like	petal-like	strap	ligule-like	strap_shaped	10	5	2	4	free	5	5	5	FBG	2020-0051	Y
+THECAC_FBG_CG_2022-06-24	thecac_fbg_cg_220622_05	2020-0051	Theobroma	Theobromeae	tree	sepal-like	petal-like	strap	ligule-like	strap_shaped	10	5	2	4	free	5	5	5	FBG	2020-0051	Y
+THECAC_FBG_RF_0120a_2022-06-24	THECAC_FBG_RF_0120a_220624_01	2002-0120 A	Theobroma	Theobromeae	tree	sepal-like	petal-like	strap	ligule-like	strap_shaped	10	5	2	4	free	5	5	5	FBG	2002-0120 A	Y
+THECAC_FBG_RF_0120c_2022-06-24	thecac_fbg_rf_0120c_220624_01	2002-0120 C	Theobroma	Theobromeae	tree	sepal-like	petal-like	strap	ligule-like	strap_shaped	10	5	2	4	free	5	5	5	FBG	2002-0120 C	Y
+THECAC_FBG_RPH_2022-01-23	Thecac_fbg_RPH_220123_01	2009-0862_A	Theobroma	Theobromeae	tree	sepal-like	petal-like	strap	ligule-like	strap_shaped	10	5	2	4	free	5	5	5	FBG	2009-0862 A	Y
+THECAC_FBG_RPH_2022-06-24	thecac_fbg_rph_220622_09	2009-0862_A	Theobroma	Theobromeae	tree	sepal-like	petal-like	strap	ligule-like	strap_shaped	10	5	2	4	free	5	5	5	FBG	2009-0862 A	Y
+THECAC_USDA_MIA_CCN51_2022-03-31	Thecac_usda_MIA_CCN51_220331_01	CCN-51	Theobroma	Theobromeae	tree	sepal-like	petal-like	strap	ligule-like	strap_shaped	10	5	2	4	free	5	5	5	USDA	CCN-51	Y
+THECAC_USDA_MIA_SHRS7_2022-03-31	THECAC_USDA_MAR_(10)UM_HR_SS_PTA(14d)_	SHRS-7_(INIAPT-484)	Theobroma	Theobromeae	tree	sepal-like	petal-like	strap	ligule-like	strap_shaped	10	5	2	4	free	5	5	5	USDA	SHRS-7 (INIAPT-484)	Y
+THECAC_USDA_MIA_SHRS7_2022-03-31	THECAC_USDA_MAR_(8)UM_HR_SS_PTA(14d)_	SHRS-7_(INIAPT-484)	Theobroma	Theobromeae	tree	sepal-like	petal-like	strap	ligule-like	strap_shaped	10	5	2	4	free	5	5	5	USDA	SHRS-7 (INIAPT-484)	Y
+THECAC_FBG_CG_2022-06-24	thecac_fbg_cg_220622_02	2020-0051	Theobroma	Theobromeae	tree	sepal-like	petal-like	strap	ligule-like	strap_shaped	10	5	2	4	free	5	5	5	FBG	2020-0051	Y
+THECAC_FBG_RF_0120a_2022-06-24	THECAC_FBG_RF_0120a_220624_02	2002-0120 A	Theobroma	Theobromeae	tree	sepal-like	petal-like	strap	ligule-like	strap_shaped	10	5	2	4	free	5	5	5	FBG	2002-0120 A	Y
+THECAC_FBG_RF_2022-05-02	THECAC_FBG_RF_220502_05	2002-0120 C	Theobroma	Theobromeae	tree	sepal-like	petal-like	strap	ligule-like	strap_shaped	10	5	2	4	free	5	5	5	FBG	2002-0120 C	Y
+THECAC_FBG_RPH_2022-06-24	thecac_fbg_rph_220622_07	2009-0862_A	Theobroma	Theobromeae	tree	sepal-like	petal-like	strap	ligule-like	strap_shaped	10	5	2	4	free	5	5	5	FBG	2009-0862 A	Y
+THECAC_USDA_MIA_SHRS7_2022-03-31	Thecac_usda_MIA_SHRS7_220331_01	SHRS-7_(INIAPT-484)	Theobroma	Theobromeae	tree	sepal-like	petal-like	strap	ligule-like	strap_shaped	10	5	2	4	free	5	5	5	USDA	SHRS-7 (INIAPT-484)	Y

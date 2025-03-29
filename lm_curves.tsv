@@ -1,0 +1,7 @@
+lm_name	num_repeats	before	slide	after
+fil_bot	15	1	14	15
+fil_top	10	16	24	25
+petal_curveL	40	30	68	69
+petal_curveR	40	70	108	109
+sepal_length	20	110	128	129
+sepal_width	10	130	138	139
