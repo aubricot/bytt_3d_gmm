@@ -5,4 +5,4 @@ Files and code used for 3D gmm analysis of flowers in the Byttnerioideae (Malvac
 <p align="center">
 <a href="url"><img src="https://github.com/aubricot/bytt_3d_gmm/blob/main/images/bytt_lms_github_banner.jpg" align="middle" width="900" ></a></p>   
 
-Models were generated in [3D Slicer](https://www.slicer.org) and will be made available on Morphosource soon. Analysis was carried out in [R 4.4.2](https://www.R-project.org/) using [SlicerMorphR 0.0.0.9000](https://github.com/SlicerMorph/SlicerMorphR) and [geomorph 4.0.10](https://github.com/geomorphR/geomorph).
+Models were generated in [3D Slicer](https://www.slicer.org) and will be made available on Morphosource soon. Analysis was carried out in [R 4.4.2](https://www.R-project.org/) using [SlicerMorphR 0.0.0.9000](https://github.com/SlicerMorph/SlicerMorphR) and [geomorph 4.0.10](https://github.com/geomorphR/geomorph). Landmark datasets are available on [Zenodo](https://doi.org/10.5281/zenodo.15107026). 
